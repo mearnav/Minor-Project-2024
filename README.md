@@ -1,4 +1,4 @@
-# Minor-Project-2024
+# Minor-Project-2023
 Develop an automated system to detect traffic accidents in real-time using surveillance camera footage.
 * Technologies Used: Python,YOLO, OpenCV, TensorFlow, Keras, PyTorch, NumPy, Pandas
 * Developed and fine-tuned convolutional neural networks (CNNs) for object detection and scene classification.
